@@ -18,6 +18,7 @@
   it is operated via Voice Control 
 
 **Please allow audio permissions whenever asked**
+**Metamask must be installed in order to test Eclectica**
 
 
 ## A Guide to Deploying your Metaverse
