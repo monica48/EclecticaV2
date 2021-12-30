@@ -5,12 +5,12 @@
 - Add metis testnet to you metamask via : https://docs.metis.io/building-on-metis/metamask-setting
 - Visit the demo gallery link : https://bafybeia3gjesxiw2mj7eos23inlm3q52unhs4bzjzyfiye4dhnzjxh5n5y.ipfs.infura-ipfs.io/
 - The Following are the controls 
-""" 
-WASD : To move in the space 
-P   : Present your screen 
-B   : When near an NFT allow you to buy the NFT
-Tab : Will sit on the closest table to the character
-"""
+
+> WASD : To move in the space 
+> P   : Present your screen 
+> B   : When near an NFT allow you to buy the NFT
+> Tab : Will sit on the closest table to the character
+
 - You can hangout in the space. There is a bot which answers question regarding blockchain and Metis 
   it is operated via Voice Control 
 
