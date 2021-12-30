@@ -7,8 +7,11 @@
 - The Following are the controls 
 
 > WASD : To move in the space 
+ 
 > P   : Present your screen 
+ 
 > B   : When near an NFT allow you to buy the NFT
+
 > Tab : Will sit on the closest table to the character
 
 - You can hangout in the space. There is a bot which answers question regarding blockchain and Metis 
