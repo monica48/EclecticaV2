@@ -1,0 +1,30 @@
+{
+  "default": {
+    "voiceInfo": {
+      "lang": "en-US",
+      "speaker": "Kate",
+      "speed": 0.7,
+      "variation": 40
+    },
+    "phrases": {
+      "nft_i":[{"text":"Non-fungible tokens or NFTs are cryptographic assets on a blockchain with unique identification codes and metadata that distinguish them from each other. Unlike cryptocurrencies, they cannot be traded or exchanged at equivalency. This differs from fungible tokens like cryptocurrencies, which are identical to each other and, therefore, can be used as a medium for commercial transactions."}],
+      "metis_i":[{"text":"Metis is ethereum layer 2 rollup platform To accelerate the transition of people to blockchain for open, fair, and decentralized business on Web 3.0. It has Low gas fees, Fast transactions, Native storage, High security."}],
+      "metis1_i":[{"text":"Yes, metis can integrate with your existing platform without you moving or changing any of your code."}],
+      "metis2_i":[{"text":"Yes, as a Layer 2 solution, Metis is compatible with Ethereum Layer 1, and Ethereum Virtual Machine (EVM)."}],
+      "metis4_i":[{"text":"DAC is no code solution to build a dao. you can use polis for that. For more info visit metis official docs."}],
+      "defi_i":[{"text":"Decentralized finance often called DeFi or open finance refers to the economic paradigm shift enabled by decentralized technologies, particularly blockchain networks. DeFi signals the shift from a historically centralized and closed financial system toward a universally accessible economy that is based on open protocols that are interoperable, programmable, and composable. From streamlined and secure payment networks to automated loans to USD-pegged stablecoins, decentralized finance has emerged as one of the most active sectors in the blockchain space."}],
+      "dao_i":[{"text":"A decentralized autonomous organization (DAO), sometimes called a decentralized autonomous corporation (DAC), is an organization represented by rules encoded as a computer program that is transparent, controlled by the organization members and not influenced by a central government. A DAO's financial transaction record and program rules are maintained on a blockchain. The precise legal status of this type of business organization is unclear."}],
+      "l2_i":[{"text":"Layer 2 refers to a secondary framework or protocol that is built on top of an existing blockchain system. The main goal of these protocols is to solve the transaction speed and scaling difficulties that are being faced by the major cryptocurrency networks."}]
+    },
+    "macros": {
+      "nft_i":{},
+      "metis_i":{},
+      "metis1_i":{},
+      "metis2_i":{},
+      "metis4_i":{},
+      "defi_i":{},
+      "dao_i":{},
+      "l2_i":{}
+    }
+  }
+}

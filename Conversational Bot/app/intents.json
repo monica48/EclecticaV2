@@ -1,0 +1,76 @@
+{
+    "version": "v2",
+    "intents": {
+        "nft":{
+            "includes":[
+                "what is nft?",
+                "i like to know about nft.",
+                "i wanted to learn about nft.",
+                "what is non fungible tokens?",
+                "is nfts are art?"
+            ]
+        },
+        "metis":{
+            "includes":[
+                "what is metis?",
+                "which chain is layer 2 solution?",
+                "i want to know about metis.",
+                "i want to learn about metis.",
+                "how metis is different from other chains?",
+                "what is metis blockchain?",
+                "tell me about metis"
+            ]
+        },
+        "metis1":{
+            "includes":[
+               "is Metis integratable to my existing website app business platform?",
+               "can i integrate metis on my current platform?" 
+            ]
+        },
+        "metis2":{
+            "includes":[
+                "Is Metis compatible with Ethereum EVM?",
+                "can i use solidity to develeop smart contract for metis?" 
+            ]
+        },
+        "metis4":{
+            "includes":[
+                "what is metis dac?",
+                "how can i use metis for dao?",
+                "what is dao solution provided by metis?",
+                "how can i create decentralized organization on metis?",
+                "how can i create decentralized company on metis?" 
+            ]
+        },
+        "defi":{
+            "includes":[
+                "What is decentralized finance?",
+                "what is defi?",
+                "how i can use blockchain for finance?",
+                "can we use blockchain for finance?",
+                "i want to learn about defi.",
+                "i want to know about defi."
+            ]
+        },
+        "dao":{
+            "includes":[
+                "What is dao?",
+                "i want to know about dao",
+                "i like to know about dao",
+                "what is decentralized autonomous organization?",
+                "how can i create decentralized organization.",
+                "how can blockchain help to create transperent organization?"
+            ]
+        },
+        "l2":{
+            "includes":[
+               "what is layer 2 solution?",
+               "why layer 2 solution required?",
+               "tell me benifit of layer 2 blockchain",
+               "i want to know about layer 2 solution",
+               "i want to know about layer 2 blockchain",
+               "how layer 2 blockchain solution is helpful?"
+            ]
+        }
+    }
+  }

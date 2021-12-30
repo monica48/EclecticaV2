@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: 8c1767c32375cc042ad4e83591b6f330
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 8689451610941715606
+    second: R|CAction
+  - first:
+      74: -5897895561557541261
+    second: R|RAction
+  - first:
+      74: -1665495848532369225
+    second: R|SAction
+  - first:
+      74: -3631124510092778026
+    second: R|TAction
+  - first:
+      74: -7211740751270087491
+    second: R|UAction
+  - first:
+      74: -4328894065245695109
+    second: U|CAction
+  - first:
+      74: 2369206713140157154
+    second: U|RAction
+  - first:
+      74: -5296509080362555028
+    second: U|SAction
+  - first:
+      74: 8151730953420746031
+    second: U|TAction
+  - first:
+      74: -7920698462763984737
+    second: U|UAction
+  - first:
+      74: -3109016750569991326
+    second: S|CAction
+  - first:
+      74: -3891415321517973780
+    second: S|RAction
+  - first:
+      74: 8461322116725996869
+    second: S|SAction
+  - first:
+      74: -5011614588156470433
+    second: S|TAction
+  - first:
+      74: -7061148370085354351
+    second: S|UAction
+  - first:
+      74: -5565455472218218482
+    second: T|CAction
+  - first:
+      74: 8068316449646694140
+    second: T|RAction
+  - first:
+      74: -4577048673684755230
+    second: T|SAction
+  - first:
+      74: -6701514751726405528
+    second: T|TAction
+  - first:
+      74: -3846183923375606222
+    second: T|UAction
+  - first:
+      74: -7474618312834803873
+    second: C|CAction
+  - first:
+      74: -5929198032367834711
+    second: C|RAction
+  - first:
+      74: -7752116883215651874
+    second: C|SAction
+  - first:
+      74: -5114211370476632879
+    second: C|TAction
+  - first:
+      74: -8054481145227430577
+    second: C|UAction
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

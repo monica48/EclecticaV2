@@ -1,0 +1,4 @@
+import lazy from "./LazyMinter";
+
+
+const lazyminter = new LazyMinter({ myDeployedContract.address, signerForMinterAccount })
